@@ -1,0 +1,19 @@
+# Core
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+joblib>=1.4.0
+
+# Visualization
+matplotlib>=3.9.0
+
+# Network Packet Capture
+scapy>=2.5.0
+
+# Local LLM (Ollama)
+ollama>=0.6.0
+
+# Optional (recommended)
+scipy>=1.13.0
