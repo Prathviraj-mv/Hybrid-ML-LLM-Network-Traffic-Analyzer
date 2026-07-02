@@ -1,7 +1,7 @@
 # Hybrid ML + LLM Network Threat Analyzer
 
 <p align="center">
-  <img src="demo/img1.png" width="90%">
+  <img src="demo/img3.png" width="90%">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ The application provides an interactive desktop dashboard capable of monitoring 
 ## Dashboard
 
 <p align="center">
-<img src="demo/img3.png" width="90%">
+<img src="demo/img4.png" width="90%">
 </p>
 
 ## ML Analysis
