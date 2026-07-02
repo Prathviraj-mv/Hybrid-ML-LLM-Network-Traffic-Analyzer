@@ -25,10 +25,10 @@ The application provides an interactive desktop dashboard capable of monitoring 
 ## Dashboard
 
 <p align="center">
-<img src="demo/img1.png" width="90%">
+<img src="demo/img3.png" width="90%">
 </p>
 
-## Live Flow Analysis
+## ML Analysis
 
 <p align="center">
 <img src="demo/img2.png" width="90%">
@@ -37,16 +37,9 @@ The application provides an interactive desktop dashboard capable of monitoring 
 ## Threat Details
 
 <p align="center">
-<img src="demo/img3.png" width="90%">
+<img src="demo/img1.png" width="90%">
 </p>
 
-## ML Analysis
-
-<p align="center">
-<img src="demo/img4.png" width="90%">
-</p>
-
----
 
 # Features
 
